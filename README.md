@@ -61,14 +61,17 @@ Database: SQL Server
 Other: Agile/Scrum, Trello, Jira, Git, GitHub, Crystal Reports
 
 📊 GitHub Stats
+
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Abozaid&layout=compact&theme=radical" alt="Top Languages" /> </p>
+
+
  
 🌍 Connect With Me
 
 📧 ali.abozaidazz@gmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn :https://www.linkedin.com/in/ali-abo-zaid/
 
-💻 GitHub
 
 ✨ "The best way to predict the future is to build it."
