@@ -62,6 +62,7 @@ Other: Agile/Scrum, Trello, Jira, Git, GitHub, Crystal Reports
 
 📊 GitHub Stats
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Abozaid&layout=compact&theme=radical" alt="Top Languages" /> </p>
+ 
 🌍 Connect With Me
 
 📧 ali.abozaidazz@gmail.com
