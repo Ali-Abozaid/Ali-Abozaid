@@ -61,7 +61,7 @@ Database: SQL Server
 Other: Agile/Scrum, Trello, Jira, Git, GitHub, Crystal Reports
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Abozaid&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ali-Abozaid&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Abozaid&layout=compact&theme=radical" alt="Top Languages" /> </p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Abozaid&layout=compact&theme=radical" alt="Top Languages" /> </p>
 🌍 Connect With Me
 
 📧 ali.abozaidazz@gmail.com
